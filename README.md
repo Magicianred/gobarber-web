@@ -2,9 +2,11 @@
 
 ## Projeto criado com as aulas do Bootcamp Gostack 9.0 da Rocketseat
 <h1 align="center">
-  <h2>Tela de Login</>
+  <h3>Tela de Login</h3>
     <img alt="GoBarber-Web-Login" src="https://res.cloudinary.com/okmarcos93/image/upload/v1616344217/dashboard_inicial_gg1s1z.png" />
+  <h3>Tela de Agendamentos</h3>
     <img alt="GoBarber-Web-Agendamentos" src="https://res.cloudinary.com/okmarcos93/image/upload/v1616344218/dashboard_agendamentos_gty4cl.png" />
+  <h3>Tela de Perfil</h3>
     <img alt="GoBarber-Web-Perfil" src="https://res.cloudinary.com/okmarcos93/image/upload/v1616344219/dashboard_perfil_cvx1iz.png" />
 </h1>
 
