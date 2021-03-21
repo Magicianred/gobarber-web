@@ -1,4 +1,4 @@
-####GoBarber - Aplicação Frontend com React
+### GoBarber - Aplicação Frontend com React
 
 ## Projeto criado com as aulas do Bootcamp Gostack 9 da Rocketseat
 <h1 align="center">
