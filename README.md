@@ -1,6 +1,6 @@
 # GoBarber - Aplicação Frontend com React
 
-## Projeto criado com as aulas do Bootcamp Gostack 9 da Rocketseat
+## Projeto criado com as aulas do Bootcamp Gostack 9.0 da Rocketseat
 <h1 align="center">
     <img alt="GoBarber-Web - Login" src="https://res.cloudinary.com/okmarcos93/image/upload/v1616344217/dashboard_inicial_gg1s1z.png" />
     <img alt="GoBarber-Web Agendamentos" src="https://res.cloudinary.com/okmarcos93/image/upload/v1616344218/dashboard_agendamentos_gty4cl.png" />
